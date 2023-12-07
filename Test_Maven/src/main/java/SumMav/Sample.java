@@ -5,6 +5,7 @@ public class Sample {
 	public static void main(String args[]) {
 		Sample s=new Sample(10,20);
 		s.sum();
+		System.out.println(65);
 		
 	}
 	public Sample(int d, int g) {
